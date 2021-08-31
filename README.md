@@ -1,6 +1,1 @@
-# reflection
-2021년 봄학기 Git/GitHub 특강
-
-## remote repository와 local repository의 싱크를 맞추는 실습
-
-### 예시 commit
+# 2021년 여름방학 세미나 깃허브 특강
